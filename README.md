@@ -38,7 +38,15 @@ python3 powershellobfus.py [options]
     Example: python3 powershellobfus.py -max
 
     -h or --help: Show the help message.
+## Possibilities
 
+```
+powershell, powershelL, powersheLl, powersheLL, powershEll, powershElL, powershELl, powershELL, powersHell,
+powersHelL, powersHeLl, powersHeLL, powersHEll, powersHElL, powersHELl, powersHELL, powerShell, powerShelL,
+powerSheLl, powerSheLL, powerShEll, powerShElL, powerShELl, powerShELL, powerSHell, powerSHelL, powerSHeLl,
+powerSHeLL, powerSHEll, powerSHElL, powerSHELl, powerSHELL, poweRshell, poweRshelL, poweRsheLl, poweRsheLL,
+poweRshEll, poweRshElL, poweRshELl, poweRshELL, poweRsHell
+```
 ## Why Use PowerShellObfus?
 
     Red Teaming and Offensive Security: Simulate different types of obfuscation used by adversaries to test detection rules.
