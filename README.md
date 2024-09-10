@@ -52,6 +52,13 @@ poweRshEll, poweRshElL, poweRshELl, poweRshELL, poweRsHell
     Red Teaming and Offensive Security: Simulate different types of obfuscation used by adversaries to test detection rules.
     Blue Team and Defensive Security: Improve detection by understanding how variations in casing can bypass certain signatures and tools.
 
+
+## To Do;
+
+-  Generaate sophisticated full powershell
+
+
+
 ## Requirements
 
     Python 3.x
